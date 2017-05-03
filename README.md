@@ -1,7 +1,7 @@
 # PrimePrimeMinisters
 Which Prime Ministers held Prime Number offices?
 
-A friend and I wanted to know who the primest of Prime Ministers was.
+A friend and I wanted to know who the primest of British Prime Ministers was.
 
 It's Gladstone.
 
